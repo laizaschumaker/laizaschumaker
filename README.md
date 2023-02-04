@@ -1,16 +1,12 @@
-### Hi there 👋
+### Olá! Seja bem vindo (a) 👋
+### Sou a Laiza, Analista de Testes e Qualidade de Software (QA).
+✅ Pós graduada em Arquitetura e Governança em TI | Bacharel em Sistemas da Informação | Técnica em Processamento de Dados
 
-<!--
-**laizaschumaker/laizaschumaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Estudando Testes Automatizados e me aventurando pelo mundo de Desenvolvimento.
+<br>
+<br>
+<div> 
+  <a href="https://www.linkedin.com/in/laizaschumaker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:laizaschumaker@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div>
+          
