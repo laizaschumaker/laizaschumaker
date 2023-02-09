@@ -2,7 +2,7 @@
 ### Sou a Laiza, Analista de Testes e Qualidade de Software (QA).
 ✅ Pós graduada em Arquitetura e Governança em TI | Bacharel em Sistemas da Informação | Técnica em Processamento de Dados
 
-🖥️ Estudando Testes Automatizados e me aventurando pelo mundo de Desenvolvimento.
+🖥️ Estudando Testes Automatizados, Java e Inglês.
 <br>
 <br>
 <div> 
